@@ -1,1 +1,1 @@
-{"id":"barcelona","country":"es","name":"Barcelona","lat":41.386,"lng":2.17,"radius_km":15,"fuels":{"diesel":[[1795452098,1.4897]],"e5":[[1795452098,1.2243]]}}
+{"id":"barcelona","country":"es","name":"Barcelona","lat":41.386,"lng":2.17,"radius_km":15,"fuels":{"diesel":[[1795452098,1.4897],[1795512696,1.4763]],"e5":[[1795452098,1.2243],[1795512696,1.219]]}}

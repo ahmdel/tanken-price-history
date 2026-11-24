@@ -1,1 +1,1 @@
-{"id":"valencia","country":"es","name":"Valencia","lat":39.47,"lng":-0.377,"radius_km":15,"fuels":{"diesel":[[1795452098,1.4983]],"e5":[[1795452098,1.2977]]}}
+{"id":"valencia","country":"es","name":"Valencia","lat":39.47,"lng":-0.377,"radius_km":15,"fuels":{"diesel":[[1795452098,1.4983],[1795512696,1.4983]],"e5":[[1795452098,1.2977],[1795512696,1.2977]]}}
