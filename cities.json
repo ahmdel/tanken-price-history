@@ -1,0 +1,42 @@
+{
+  "_note": "Big cities per country. radius_km = search radius around the centre. Add a city here and the next hourly run starts its history.",
+  "cities": [
+    {"id": "berlin", "country": "de", "name": "Berlin", "lat": 52.520, "lng": 13.405, "radius_km": 15},
+    {"id": "hamburg", "country": "de", "name": "Hamburg", "lat": 53.551, "lng": 9.994, "radius_km": 15},
+    {"id": "muenchen", "country": "de", "name": "München", "lat": 48.137, "lng": 11.575, "radius_km": 15},
+    {"id": "koeln", "country": "de", "name": "Köln", "lat": 50.938, "lng": 6.960, "radius_km": 15},
+    {"id": "frankfurt", "country": "de", "name": "Frankfurt am Main", "lat": 50.110, "lng": 8.682, "radius_km": 15},
+    {"id": "stuttgart", "country": "de", "name": "Stuttgart", "lat": 48.775, "lng": 9.182, "radius_km": 15},
+    {"id": "duesseldorf", "country": "de", "name": "Düsseldorf", "lat": 51.227, "lng": 6.773, "radius_km": 15},
+    {"id": "leipzig", "country": "de", "name": "Leipzig", "lat": 51.340, "lng": 12.374, "radius_km": 15},
+    {"id": "dortmund", "country": "de", "name": "Dortmund", "lat": 51.514, "lng": 7.468, "radius_km": 15},
+    {"id": "dresden", "country": "de", "name": "Dresden", "lat": 51.050, "lng": 13.738, "radius_km": 15},
+    {"id": "hannover", "country": "de", "name": "Hannover", "lat": 52.376, "lng": 9.732, "radius_km": 15},
+    {"id": "nuernberg", "country": "de", "name": "Nürnberg", "lat": 49.452, "lng": 11.077, "radius_km": 15},
+
+    {"id": "wien", "country": "at", "name": "Wien", "lat": 48.208, "lng": 16.373, "radius_km": 15},
+    {"id": "graz", "country": "at", "name": "Graz", "lat": 47.071, "lng": 15.439, "radius_km": 15},
+    {"id": "linz", "country": "at", "name": "Linz", "lat": 48.306, "lng": 14.286, "radius_km": 15},
+    {"id": "salzburg", "country": "at", "name": "Salzburg", "lat": 47.809, "lng": 13.055, "radius_km": 15},
+    {"id": "innsbruck", "country": "at", "name": "Innsbruck", "lat": 47.269, "lng": 11.404, "radius_km": 15},
+    {"id": "klagenfurt", "country": "at", "name": "Klagenfurt", "lat": 46.624, "lng": 14.308, "radius_km": 15},
+
+    {"id": "paris", "country": "fr", "name": "Paris", "lat": 48.857, "lng": 2.352, "radius_km": 15},
+    {"id": "marseille", "country": "fr", "name": "Marseille", "lat": 43.296, "lng": 5.370, "radius_km": 15},
+    {"id": "lyon", "country": "fr", "name": "Lyon", "lat": 45.764, "lng": 4.836, "radius_km": 15},
+    {"id": "toulouse", "country": "fr", "name": "Toulouse", "lat": 43.605, "lng": 1.444, "radius_km": 15},
+    {"id": "nice", "country": "fr", "name": "Nice", "lat": 43.710, "lng": 7.262, "radius_km": 15},
+    {"id": "nantes", "country": "fr", "name": "Nantes", "lat": 47.218, "lng": -1.553, "radius_km": 15},
+    {"id": "strasbourg", "country": "fr", "name": "Strasbourg", "lat": 48.573, "lng": 7.752, "radius_km": 15},
+    {"id": "bordeaux", "country": "fr", "name": "Bordeaux", "lat": 44.838, "lng": -0.579, "radius_km": 15},
+    {"id": "lille", "country": "fr", "name": "Lille", "lat": 50.629, "lng": 3.057, "radius_km": 15},
+
+    {"id": "madrid", "country": "es", "name": "Madrid", "lat": 40.417, "lng": -3.704, "radius_km": 15},
+    {"id": "barcelona", "country": "es", "name": "Barcelona", "lat": 41.386, "lng": 2.170, "radius_km": 15},
+    {"id": "valencia", "country": "es", "name": "Valencia", "lat": 39.470, "lng": -0.377, "radius_km": 15},
+    {"id": "sevilla", "country": "es", "name": "Sevilla", "lat": 37.389, "lng": -5.984, "radius_km": 15},
+    {"id": "zaragoza", "country": "es", "name": "Zaragoza", "lat": 41.649, "lng": -0.889, "radius_km": 15},
+    {"id": "malaga", "country": "es", "name": "Málaga", "lat": 36.721, "lng": -4.421, "radius_km": 15},
+    {"id": "bilbao", "country": "es", "name": "Bilbao", "lat": 43.263, "lng": -2.935, "radius_km": 15}
+  ]
+}
